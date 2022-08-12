@@ -5,7 +5,12 @@
 }
 body{
     background-color: black;
-    height: 100%;
+    height: 100vh;
+}
+
+p,li{
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 /* for index.html */
@@ -34,4 +39,11 @@ a{
     padding-bottom: 10px;
     color: brown;
     font-family: cursive;
+}
+.img-brownies{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
 }
