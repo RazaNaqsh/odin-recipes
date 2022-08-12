@@ -8,7 +8,7 @@ body{
     height: 100vh;
 }
 
-p,li{
+p,li,h4,h3{
     margin-top: 5px;
     margin-bottom: 5px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -16,6 +16,15 @@ p,li{
 
 .teleport{
     margin-top: 10px;
+}
+h2{
+    color: tomato;
+}
+h3{
+    color: burlywood;
+}
+h4{
+    color: lightcoral;
 }
 
 /* for index.html */
