@@ -38,17 +38,29 @@ a{
 
 /* for brownies.html */
 
-.title-brownies{
+.title-brownies, .title-desserts{
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: brown;
     font-family: cursive;
 }
-.img-brownies{
+
+.title-brownies{
+    color: brown;
+}
+.title-desserts{
+    color:rgb(255, 255, 159)
+}
+.img-brownies,.img-desserts{
     display: block;
     width: 500px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
+}
+
+/* Dessert page */
+.container{
+    background-color: black;
+    padding-bottom: 20px;
 }
