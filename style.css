@@ -11,6 +11,11 @@ body{
 p,li{
     margin-top: 5px;
     margin-bottom: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.teleport{
+    margin-top: 10px;
 }
 
 /* for index.html */
