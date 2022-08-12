@@ -8,7 +8,7 @@ body{
     height: 100vh;
 }
 
-p,li,h4,h3{
+p,li,h1,h4,h3{
     margin-top: 5px;
     margin-bottom: 5px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -47,7 +47,7 @@ a{
 
 /* for brownies.html */
 
-.title-brownies, .title-desserts{
+.title-brownies, .title-desserts,.title-cookies{
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -60,7 +60,10 @@ a{
 .title-desserts{
     color:rgb(255, 255, 159)
 }
-.img-brownies,.img-desserts{
+.title-cookies{
+    color: bisque;
+}
+.img-brownies,.img-desserts,.img-cookies{
     display: block;
     width: 500px;
     margin-left: auto;
