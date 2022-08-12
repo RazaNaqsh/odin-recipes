@@ -6,6 +6,7 @@
 body{
     background-color: black;
     height: 100vh;
+    padding-left: 25px;
 }
 
 p,li,h1,h4,h3{
