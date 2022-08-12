@@ -1,15 +1,20 @@
+/* general */
 *{
     margin:0;
+    
 }
 body{
     background-color: black;
-    height: 100vh;
+    height: 100%;
 }
+
+/* for index.html */
+
 .highlight{
     color: dodgerblue;
     font-family: cursive;
 }
-img{
+.index-img{
     height: 600px;
     width: auto;
 }
@@ -17,4 +22,16 @@ a{
     text-decoration: none;
     font-size: 18px;
     color: aqua;
+}
+
+
+
+/* for brownies.html */
+
+.title-brownies{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: brown;
+    font-family: cursive;
 }
