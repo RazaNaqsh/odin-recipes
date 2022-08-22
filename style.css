@@ -54,6 +54,9 @@ a{
     font-family: cursive;
     color: bisque;
 }
+h1,p,li{
+    color: azure;
+}
 
 .title-brownies{
     color: brown;
